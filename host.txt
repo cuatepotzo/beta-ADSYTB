@@ -20,7 +20,6 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservices.com
-0.0.0.0 gstatic.com
 0.0.0.0 i1.ytimg.com
 0.0.0.0 innovid.com
 0.0.0.0 ocsp.comodoca.com
@@ -111,7 +110,6 @@
 0.0.0.0 www.analytic-google.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagservices.com
-0.0.0.0 www.gstatic.com
 0.0.0.0 www.youtube-nocookie.com
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 youtube.com/api/stats/ads
